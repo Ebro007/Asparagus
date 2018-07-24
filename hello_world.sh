@@ -1,2 +1,4 @@
 #!usr/bin/bash
-print "hello World!"
+echo "hello World!"
+echo "gotheeem"
+
